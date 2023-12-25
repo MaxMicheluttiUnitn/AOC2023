@@ -1,0 +1,10 @@
+*.txt
+*.exe
+*.jar
+*.o
+*.class
+*/target
+*.dart_tool
+*/zig-out
+*/zig-cache
+*/node_modules
